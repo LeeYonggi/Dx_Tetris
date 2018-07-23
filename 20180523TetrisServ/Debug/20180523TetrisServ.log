@@ -1,0 +1,10 @@
+﻿  20180523TetrisServ.cpp
+d:\programming\pj\20321이용기 tetris\20180523tetrisserv\20180523tetrisserv.cpp(111): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(1848): note: 'inet_ntoa' 선언을 참조하십시오.
+d:\programming\pj\20321이용기 tetris\20180523tetrisserv\20180523tetrisserv.cpp(117): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(1848): note: 'inet_ntoa' 선언을 참조하십시오.
+d:\programming\pj\20321이용기 tetris\20180523tetrisserv\20180523tetrisserv.cpp(141): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(1848): note: 'inet_ntoa' 선언을 참조하십시오.
+d:\programming\pj\20321이용기 tetris\20180523tetrisserv\20180523tetrisserv.cpp(151): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 'sprintf' 선언을 참조하십시오.
+  20180523TetrisServ.vcxproj -> D:\Programming\PJ\20321이용기 Tetris\20180523TetrisServ\Debug\20180523TetrisServ.exe

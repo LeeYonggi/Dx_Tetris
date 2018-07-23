@@ -1,0 +1,3 @@
+﻿  MainProc.cpp
+d:\programming\pj\20321이용기 tetris\20180412 tetris\mainproc.cpp(8): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  20180412 Tetris_2010.vcxproj -> D:\Programming\PJ\20321이용기 Tetris\20180412 Tetris\Debug\20180412 Tetris.exe
